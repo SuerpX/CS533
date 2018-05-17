@@ -1,0 +1,28 @@
+**********mdp_test[policy: random]*********
+Average reward: 2.208246166949216
+*********************************************
+
+**********parking_mdp1[policy: parkingRandomPolicy] (p = 0.1)*********
+Average reward: 329.15555166666684
+*********************************************
+
+**********parking_mdp2[policy: parkingRandomPolicy] (p = 0.1)*********
+Average reward: -6701.937040999995
+*********************************************
+
+**********parking_mdp1[policy: parkingAvoidingOccupuiedPolicy] (p = 0.1)*********
+Average reward: 138.25925533333313
+*********************************************
+
+**********parking_mdp2[policy: parkingAvoidingOccupuiedPolicy] (p = 0.1)*********
+Average reward: 154.84814066666658
+*********************************************
+
+**********parking_mdp1[policy: parkingSimpleImpovementPolicy] (p = 0.1)*********
+Average reward: 509.02592933333324
+*********************************************
+
+**********parking_mdp2[policy: parkingSimpleImpovementPolicy] (p = 0.1)*********
+Average reward: 528.033335666667
+*********************************************
+
