@@ -1,0 +1,870 @@
+************** sn:100, sl:10*************
+1:
+average score: 1024.0
+score: 1024
+2:
+average score: 1780.0
+score: 2536
+3:
+average score: 2017.3333333333333
+score: 2492
+4:
+average score: 1962.0
+score: 1796
+5:
+average score: 1853.6
+score: 1420
+6:
+average score: 2121.3333333333335
+score: 3460
+7:
+average score: 3044.5714285714284
+score: 8584
+8:
+average score: 3010.5
+score: 2772
+9:
+average score: 3024.0
+score: 3132
+10:
+average score: 2942.4
+score: 2208
+11:
+average score: 2990.909090909091
+score: 3476
+12:
+average score: 3006.0
+score: 3172
+13:
+average score: 3019.3846153846152
+score: 3180
+14:
+average score: 3044.285714285714
+score: 3368
+15:
+average score: 3022.9333333333334
+score: 2724
+16:
+average score: 3134.75
+score: 4812
+17:
+average score: 3009.8823529411766
+score: 1012
+18:
+average score: 2889.1111111111113
+score: 836
+19:
+average score: 2862.315789473684
+score: 2380
+************** sn:100, sl:15*************
+1:
+average score: 3084.0
+score: 3084
+2:
+average score: 4954.0
+score: 6824
+3:
+average score: 7281.333333333333
+score: 11936
+4:
+average score: 6155.0
+score: 2776
+5:
+average score: 5561.6
+score: 3188
+6:
+average score: 5176.666666666667
+score: 3252
+7:
+average score: 5381.142857142857
+score: 6608
+8:
+average score: 5049.5
+score: 2728
+9:
+average score: 4850.666666666667
+score: 3260
+10:
+average score: 4618.0
+score: 2524
+11:
+average score: 4787.272727272727
+score: 6480
+12:
+average score: 4672.0
+score: 3404
+13:
+average score: 4676.615384615385
+score: 4732
+14:
+average score: 4522.285714285715
+score: 2516
+15:
+average score: 4448.266666666666
+score: 3412
+16:
+average score: 4571.0
+score: 6412
+17:
+average score: 4620.235294117647
+score: 5408
+18:
+average score: 4517.555555555556
+score: 2772
+19:
+average score: 4664.8421052631575
+score: 7316
+************** sn:100, sl:20*************
+1:
+average score: 3064.0
+score: 3064
+2:
+average score: 3170.0
+score: 3276
+3:
+average score: 4313.333333333333
+score: 6600
+4:
+average score: 4595.0
+score: 5440
+5:
+average score: 4172.8
+score: 2484
+6:
+average score: 4022.6666666666665
+score: 3272
+7:
+average score: 4212.0
+score: 5348
+8:
+average score: 3940.0
+score: 2036
+9:
+average score: 3855.5555555555557
+score: 3180
+10:
+average score: 3803.6
+score: 3336
+11:
+average score: 4049.4545454545455
+score: 6508
+12:
+average score: 3968.3333333333335
+score: 3076
+13:
+average score: 3934.153846153846
+score: 3524
+14:
+average score: 3878.5714285714284
+score: 3156
+15:
+average score: 3980.8
+score: 5412
+16:
+average score: 4117.25
+score: 6164
+17:
+average score: 4228.705882352941
+score: 6012
+18:
+average score: 4224.222222222223
+score: 4148
+19:
+average score: 4275.789473684211
+score: 5204
+************** sn:300, sl:10*************
+1:
+average score: 3432.0
+score: 3432
+2:
+average score: 3210.0
+score: 2988
+3:
+average score: 4094.6666666666665
+score: 5864
+4:
+average score: 4794.0
+score: 6892
+5:
+average score: 4471.2
+score: 3180
+6:
+average score: 3978.6666666666665
+score: 1516
+7:
+average score: 4122.857142857143
+score: 4988
+8:
+average score: 3916.5
+score: 2472
+9:
+average score: 3619.1111111111113
+score: 1240
+10:
+average score: 3530.4
+score: 2732
+11:
+average score: 3835.2727272727275
+score: 6884
+12:
+average score: 3769.6666666666665
+score: 3048
+13:
+average score: 3721.230769230769
+score: 3140
+14:
+average score: 3850.0
+score: 5524
+15:
+average score: 3840.0
+score: 3700
+16:
+average score: 3829.75
+score: 3676
+17:
+average score: 3709.4117647058824
+score: 1784
+18:
+average score: 3685.3333333333335
+score: 3276
+19:
+average score: 3773.684210526316
+score: 5364
+************** sn:300, sl:15*************
+1:
+average score: 3484.0
+score: 3484
+2:
+average score: 3496.0
+score: 3508
+3:
+average score: 2789.3333333333335
+score: 1376
+4:
+average score: 2693.0
+score: 2404
+5:
+average score: 2441.6
+score: 1436
+6:
+average score: 2977.3333333333335
+score: 5656
+7:
+average score: 2724.5714285714284
+score: 1208
+8:
+average score: 2809.5
+score: 3404
+9:
+average score: 3281.777777777778
+score: 7060
+10:
+average score: 3085.2
+score: 1316
+11:
+average score: 3070.181818181818
+score: 2920
+12:
+average score: 3075.3333333333335
+score: 3132
+13:
+average score: 3108.0
+score: 3500
+14:
+average score: 3292.285714285714
+score: 5688
+15:
+average score: 3298.133333333333
+score: 3380
+16:
+average score: 3328.25
+score: 3780
+17:
+average score: 3579.294117647059
+score: 7596
+18:
+average score: 3638.8888888888887
+score: 4652
+19:
+average score: 3534.5263157894738
+score: 1656
+************** sn:300, sl:20*************
+1:
+average score: 5148.0
+score: 5148
+2:
+average score: 7604.0
+score: 10060
+3:
+average score: 5628.0
+score: 1676
+4:
+average score: 5038.0
+score: 3268
+5:
+average score: 4676.0
+score: 3228
+6:
+average score: 4372.666666666667
+score: 2856
+7:
+average score: 4773.714285714285
+score: 7180
+8:
+average score: 4700.5
+score: 4188
+9:
+average score: 4548.888888888889
+score: 3336
+10:
+average score: 4668.0
+score: 5740
+11:
+average score: 4573.090909090909
+score: 3624
+12:
+average score: 4448.0
+score: 3072
+13:
+average score: 4608.923076923077
+score: 6540
+14:
+average score: 4531.428571428572
+score: 3524
+15:
+average score: 4506.933333333333
+score: 4164
+16:
+average score: 4372.75
+score: 2360
+17:
+average score: 4318.823529411765
+score: 3456
+18:
+average score: 4260.666666666667
+score: 3272
+19:
+average score: 4206.9473684210525
+score: 3240
+************** sn:500, sl:10*************
+1:
+average score: 1744.0
+score: 1744
+2:
+average score: 2068.0
+score: 2392
+3:
+average score: 1622.6666666666667
+score: 732
+4:
+average score: 2118.0
+score: 3604
+5:
+average score: 2852.0
+score: 5788
+6:
+average score: 3246.6666666666665
+score: 5220
+7:
+average score: 3285.714285714286
+score: 3520
+8:
+average score: 3366.5
+score: 3932
+9:
+average score: 3166.6666666666665
+score: 1568
+10:
+average score: 3207.6
+score: 3576
+11:
+average score: 3548.3636363636365
+score: 6956
+12:
+average score: 3517.0
+score: 3172
+13:
+average score: 3792.3076923076924
+score: 7096
+14:
+average score: 3880.0
+score: 5020
+15:
+average score: 3837.3333333333335
+score: 3240
+16:
+average score: 3940.5
+score: 5488
+17:
+average score: 4029.176470588235
+score: 5448
+18:
+average score: 4097.111111111111
+score: 5252
+19:
+average score: 4040.6315789473683
+score: 3024
+************** sn:500, sl:15*************
+1:
+average score: 3488.0
+score: 3488
+2:
+average score: 3356.0
+score: 3224
+3:
+average score: 3710.6666666666665
+score: 4420
+4:
+average score: 4551.0
+score: 7072
+5:
+average score: 4120.0
+score: 2396
+6:
+average score: 3945.3333333333335
+score: 3072
+7:
+average score: 3748.0
+score: 2564
+8:
+average score: 3614.0
+score: 2676
+9:
+average score: 3878.222222222222
+score: 5992
+10:
+average score: 3786.4
+score: 2960
+11:
+average score: 3932.0
+score: 5388
+12:
+average score: 4191.666666666667
+score: 7048
+13:
+average score: 4081.5384615384614
+score: 2760
+14:
+average score: 3908.5714285714284
+score: 1660
+15:
+average score: 4101.866666666667
+score: 6808
+16:
+average score: 3915.75
+score: 1124
+17:
+average score: 3775.0588235294117
+score: 1524
+18:
+average score: 3736.8888888888887
+score: 3088
+19:
+average score: 3698.315789473684
+score: 3004
+************** sn:500, sl:20*************
+1:
+average score: 5320.0
+score: 5320
+2:
+average score: 3896.0
+score: 2472
+3:
+average score: 4457.333333333333
+score: 5580
+4:
+average score: 4714.0
+score: 5484
+5:
+average score: 4076.0
+score: 1524
+6:
+average score: 3907.3333333333335
+score: 3064
+7:
+average score: 3845.1428571428573
+score: 3472
+8:
+average score: 3766.0
+score: 3212
+9:
+average score: 3709.3333333333335
+score: 3256
+10:
+average score: 3479.6
+score: 1412
+11:
+average score: 3716.0
+score: 6080
+12:
+average score: 3949.3333333333335
+score: 6516
+13:
+average score: 3915.3846153846152
+score: 3508
+14:
+average score: 3858.285714285714
+score: 3116
+15:
+average score: 3822.9333333333334
+score: 3328
+16:
+average score: 4039.25
+score: 7284
+17:
+average score: 3885.176470588235
+score: 1420
+18:
+average score: 3760.8888888888887
+score: 1648
+19:
+average score: 3844.2105263157896
+score: 5344
+************** sn:100, sl:50*************
+1:
+average score: 6304.0
+score: 6304
+2:
+average score: 4676.0
+score: 3048
+3:
+average score: 5072.0
+score: 5864
+4:
+average score: 4613.0
+score: 3236
+5:
+average score: 4694.4
+score: 5020
+6:
+average score: 4815.333333333333
+score: 5420
+7:
+average score: 5048.571428571428
+score: 6448
+8:
+average score: 5130.5
+score: 5704
+9:
+average score: 5309.777777777777
+score: 6744
+10:
+average score: 5836.0
+score: 10572
+11:
+average score: 5593.454545454545
+score: 3168
+12:
+average score: 6094.666666666667
+score: 11608
+13:
+average score: 6190.7692307692305
+score: 7344
+14:
+average score: 6024.285714285715
+score: 3860
+15:
+average score: 5830.666666666667
+score: 3120
+16:
+average score: 5909.5
+score: 7092
+17:
+average score: 5892.235294117647
+score: 5616
+18:
+average score: 5743.111111111111
+score: 3208
+19:
+average score: 6201.473684210527
+score: 14452
+************** sn:100, sl:100*************
+1:
+average score: 2348.0
+score: 2348
+2:
+average score: 4976.0
+score: 7604
+3:
+average score: 5574.666666666667
+score: 6772
+4:
+average score: 5866.0
+score: 6740
+5:
+average score: 6116.8
+score: 7120
+6:
+average score: 6170.0
+score: 6436
+7:
+average score: 5756.0
+score: 3272
+8:
+average score: 6772.5
+score: 13888
+9:
+average score: 6704.0
+score: 6156
+10:
+average score: 6426.0
+score: 3924
+11:
+average score: 6512.0
+score: 7372
+12:
+average score: 6392.333333333333
+score: 5076
+13:
+average score: 6344.307692307692
+score: 5768
+14:
+average score: 6661.142857142857
+score: 10780
+15:
+average score: 6706.666666666667
+score: 7344
+16:
+average score: 6773.0
+score: 7768
+17:
+average score: 6702.823529411765
+score: 5580
+18:
+average score: 7011.333333333333
+score: 12256
+19:
+average score: 7427.368421052632
+score: 14916
+************** sn:300, sl:50*************
+1:
+average score: 11928.0
+score: 11928
+2:
+average score: 9522.0
+score: 7116
+3:
+average score: 8712.0
+score: 7092
+4:
+average score: 7863.0
+score: 5316
+5:
+average score: 6618.4
+score: 1640
+6:
+average score: 6685.333333333333
+score: 7020
+7:
+average score: 6679.428571428572
+score: 6644
+8:
+average score: 6524.5
+score: 5440
+9:
+average score: 7160.0
+score: 12244
+10:
+average score: 7151.6
+score: 7076
+11:
+average score: 6802.181818181818
+score: 3308
+12:
+average score: 6534.666666666667
+score: 3592
+13:
+average score: 6561.538461538462
+score: 6884
+14:
+average score: 6274.0
+score: 2536
+15:
+average score: 6108.8
+score: 3796
+16:
+average score: 6479.75
+score: 12044
+17:
+average score: 6515.529411764706
+score: 7088
+18:
+average score: 6412.666666666667
+score: 4664
+19:
+average score: 6426.315789473684
+score: 6672
+************** sn:300, sl:100*************
+1:
+average score: 6896.0
+score: 6896
+2:
+average score: 5054.0
+score: 3212
+3:
+average score: 4518.666666666667
+score: 3448
+4:
+average score: 5244.0
+score: 7420
+5:
+average score: 4862.4
+score: 3336
+6:
+average score: 5806.666666666667
+score: 10528
+7:
+average score: 5902.285714285715
+score: 6476
+8:
+average score: 6030.5
+score: 6928
+9:
+average score: 6152.0
+score: 7124
+10:
+average score: 6749.6
+score: 12128
+11:
+average score: 6785.090909090909
+score: 7140
+12:
+average score: 6723.666666666667
+score: 6048
+13:
+average score: 6722.7692307692305
+score: 6712
+14:
+average score: 6632.285714285715
+score: 5456
+15:
+average score: 7151.733333333334
+score: 14424
+16:
+average score: 7074.5
+score: 5916
+17:
+average score: 6956.470588235294
+score: 5068
+18:
+average score: 6832.444444444444
+score: 4724
+19:
+average score: 6807.1578947368425
+score: 6352
+************** sn:500, sl:50*************
+1:
+average score: 10656.0
+score: 10656
+2:
+average score: 4964.0
+score: 2492
+3:
+average score: 5243.0
+score: 6080
+4:
+average score: 4893.6
+score: 3496
+5:
+average score: 4605.333333333333
+score: 3164
+6:
+average score: 5018.857142857143
+score: 7500
+7:
+average score: 5056.5
+score: 5320
+8:
+average score: 5094.666666666667
+score: 5400
+9:
+average score: 4764.8
+score: 1796
+10:
+average score: 4618.545454545455
+score: 3156
+11:
+average score: 4829.0
+score: 7144
+12:
+average score: 4950.461538461538
+score: 6408
+13:
+average score: 4835.142857142857
+score: 3336
+14:
+average score: 4696.0
+score: 2748
+15:
+average score: 4836.25
+score: 6940
+16:
+average score: 4842.823529411765
+score: 4948
+17:
+average score: 4739.777777777777
+score: 2988
+18:
+average score: 4864.421052631579
+score: 7108
+19:
+average score: 4951.767313028576
+score: 6524
+************** sn:500, sl:100*************
+1:
+average score: 5500.0
+score: 5500
+2:
+average score: 8094.0
+score: 10688
+3:
+average score: 7262.666666666667
+score: 5600
+4:
+average score: 6499.0
+score: 4208
+5:
+average score: 6358.4
+score: 5796
+6:
+average score: 6502.0
+score: 7220
+7:
+average score: 6598.285714285715
+score: 7176
+8:
+average score: 6211.0
+score: 3500
+9:
+average score: 6318.222222222223
+score: 7176
+10:
+average score: 6001.6
+score: 3152
+11:
+average score: 6529.454545454545
+score: 11808
+12:
+average score: 6611.333333333333
+score: 7512
+13:
+average score: 6707.692307692308
+score: 7864
+14:
+average score: 6612.285714285715
+score: 5372
+15:
+average score: 6403.733333333334
+score: 3484
+16:
+average score: 6778.25
+score: 12396
+17:
+average score: 6809.176470588235
+score: 7304
+18:
+average score: 6814.0
+score: 6896
+19:
+average score: 6840.382814833159
+score: 7315
